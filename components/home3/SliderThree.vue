@@ -4,8 +4,8 @@
     <div class="slider-one__carousel owl-carousel owl-theme">
       <div class="item slider-one__slider-1" style="background-image: url(/images/slider/3_1.jpg);">
         <div class="container slider__content">
-          <p class="slider-one__text">WELCOME TO MEIPALY AGENCY</p>
-          <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
+          <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
+          <div class="slider-one__title tp-caption tp-resizeme">DIGITAL<br>AGENCY.</div>
           <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
           <!-- /.slider-one__text -->
         </div>
@@ -14,7 +14,7 @@
       <!-- /.item -->
       <div class="item slider-one__slider-2" style="background-image: url(/images/slider/3_2.jpg);">
         <div class="container slider__content">
-          <p class="slider-one__text">WELCOME TO MEIPALY AGENCY</p>
+          <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
           <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
           <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
         </div>

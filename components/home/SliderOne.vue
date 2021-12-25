@@ -4,8 +4,8 @@
     <div class="slider-one__carousel owl-carousel owl-theme">
       <div class="item slider-one__slider-1" style="background-image: url(/images/slider/1_1.jpg);">
         <div class="container slider__content">
-          <p class="slider-one__text">WELCOME TO MEIPALY AGENCY</p>
-          <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
+          <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
+          <div class="slider-one__title tp-caption tp-resizeme">DIGITAL MARKETING</div>
           <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
           <!-- /.slider-one__text -->
         </div>
@@ -14,13 +14,45 @@
       <!-- /.item -->
       <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_2.jpg);">
         <div class="container slider__content">
-          <p class="slider-one__text">WELCOME TO MEIPALY AGENCY</p>
-          <div class="slider-one__title tp-caption tp-resizeme">SMART WEB<br> DESIGN AGENCY.</div>
+          <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
+          <div class="slider-one__title tp-caption tp-resizeme">WEB DEVELOPMENT</div>
           <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
         </div>
         <!-- /.container -->
       </div>
       <!-- /.item -->
+
+	   <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_1.jpg);">
+        <div class="container slider__content">
+          <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
+          <div class="slider-one__title tp-caption tp-resizeme">MOBILE DEVELOPMENT</div>
+          <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+
+	  
+	   <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_2.jpg);">
+        <div class="container slider__content">
+          <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
+          <div class="slider-one__title tp-caption tp-resizeme">GRAPHIC DESIGN</div>
+          <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+
+	   <div class="item slider-one__slider-2" style="background-image: url(/images/slider/1_1.jpg);">
+        <div class="container slider__content">
+          <p class="slider-one__text">WELCOME TO STANDALONE SOLUTIONS</p>
+          <div class="slider-one__title tp-caption tp-resizeme">SEO & CONTENT WRITING</div>
+          <a href="#" class="common_btn"><span>DISCOVER MORE</span></a>
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.item -->
+
     </div>
   </section>
     <!-- /.slider-one__carousel -->

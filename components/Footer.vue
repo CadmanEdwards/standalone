@@ -7,8 +7,7 @@
           <aside class="widget aboutwidget">
             <a href="#"><img src="/images/foo_logo.png" alt=""></a>
             <p>
-              Welcome to our web design agency. Lorem ipsum is simply free text dolor sit amet consectetur adipisicing elit.
-              Tempore corrupti temporibus fuga earum asperiores, alias excepturi sit mpedit fugit laudantium.
+              Welcome to our Standalone Solution a digital company. We are here to provide the best on demand services.
             </p>
           </aside>
         </div>
@@ -19,17 +18,17 @@
               66 Broklyn Street, New York<br>
               United States of America
             </p>
-            <p>P: 666 888 000</p>
-            <p>E: <a href="#">needhelp@meipaly.com</a></p>
+            <p>P: +923108559858</p>
+            <p>E: <a href="#">standalonesolutions@info.com</a></p>
           </aside>
         </div>
         <div class="col-lg-3 col-sm-2 col-md-3">
           <aside class="widget social_widget">
             <h3 class="widget_title">social</h3>
             <ul>
-              <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
-              <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-              <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li>
+              <li><a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter"></i>Twitter</a></li>
+              <li><a target="_blank" href="https://web.facebook.com/"><i class="fa fa-facebook-square"></i>Facebook</a></li>
+              <li><a target="_blank" href="https://youtube.com/"><i class="fa fa-youtube-play"></i>Youtube</a></li>
             </ul>
           </aside>
         </div>
@@ -37,7 +36,7 @@
       <div class="row">
         <div class="col-lg-12 col-sm-12 text-center">
           <div class="copyright">
-            © copyright 2020 by <a href="#">Layerdrops.com</a>
+            © copyright {{ new Date().getFullYear() }} by <a href="#">standalonesolutions.com</a>
           </div>
         </div>
       </div>
